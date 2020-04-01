@@ -17,6 +17,15 @@ body{
 
 }
 
+.ae{
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+}
+
+.ent :hover{
+    text-decoration: underline;
+}
+
 /****** Logo ******/
 .googleimage {
     width: 272px;
@@ -146,10 +155,15 @@ button:hover{
 
 .Fx4vi{
     padding-left: 27px;
+    padding-right: 27px;
     margin: 0 !important;
     text-decoration: none;
     color: #5f6368;
     font-size: 14px;
+}
+
+.Fx4vi:hover{
+    text-decoration: underline;
 }
 
 .infoo{
