@@ -151,11 +151,11 @@ button:hover{
     float: right;
     background: #f2f2f2;
     height: 35px;
+    padding-right: 27px;
 }
 
 .Fx4vi{
     padding-left: 27px;
-    padding-right: 27px;
     margin: 0 !important;
     text-decoration: none;
     color: #5f6368;
